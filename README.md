@@ -66,7 +66,7 @@ Aggregated transactional line items to compress raw histories into structured cu
 ## Repository Organization
 
 ```box
-├── retail_churn_rfm_pipeline.ipynb      # Comprehensive R analytics & ML pipeline script
+├── churn_rfm_pipeline.ipynb             # Comprehensive R analytics & ML pipeline script
 ├── retail_dataset.csv                   # Dataset from Online Retail II UCI
 ├── master_customer_data.xlsx            # Compiled production dataset consumed by Tableau
 ├── tableau_preview.png                  # Executive dashboard preview screenshot
