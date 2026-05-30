@@ -1,7 +1,7 @@
 # Retail Retention Command Center: End-to-End Predictive Churn & RFM Clustering Pipeline
 
 [![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/arnav.dhablania/viz/shared/3R3R6MNN8)
-[![R](https://img.shields.io/badge/R-Language-276DC3?style=flat&logo=R&logoColor=white)](./retail_churn_rfm_pipeline.ipynb)
+[![R](https://img.shields.io/badge/R-Language-276DC3?style=flat&logo=R&logoColor=white)](churn_rfm_pipeline.ipynb)
 
 An enterprise-grade data science pipeline that transforms millions of raw retail transaction records into an actionable customer retention platform. Built entirely in **R** for extensive statistical feature engineering and predictive machine learning, the results are dynamically deployed to an interactive **Tableau Executive Retention Dashboard**.
 
